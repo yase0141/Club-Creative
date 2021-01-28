@@ -5,6 +5,10 @@
     text-decoration: none;
 }
 
+body {
+    background-color: #787575;
+}
+
 /*Tekst*/
 @font-face {
     font-family: Baloo;
