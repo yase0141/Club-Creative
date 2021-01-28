@@ -4,3 +4,25 @@
     list-style: none;
     text-decoration: none;
 }
+
+/*Tekst*/
+@font-face {
+    font-family: Baloo;
+    src: url(Fonts/Baloo\ Bhaijaan\ Regular\ 400.ttf);  
+}
+
+@font-face {
+    font-family: ArialB;
+    src: url(Fonts/arialbd.ttf);  
+}
+
+h1 {
+    color: #F1F1F1;
+    font-family: Baloo;
+}
+
+p {
+    color: #F1F1F1;
+    font-family: ArialB;
+}
+/**/
